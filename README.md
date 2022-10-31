@@ -22,7 +22,7 @@ On the checkout page, the user is prompted to fill in his home address details w
 After the card details are entered, the card details are verified and proceed to payment. Once the payment is successful, the order is successfully placed and an order confirmation receipt is sent to the user. The order details are also sent to the shipping system to start processing the shipping of the goods.
 
 # The-Serverless-Ecommerce-Process-Flow
-![alt text](https://github.com/blacktechiegirl/The-Serverless-Raven-Case-Study/blob/main/assets/serverless-raven.png)
+![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/Blank%20diagram.png)
 
 
 # The-Serverless-Ecommerce-User-Stories
