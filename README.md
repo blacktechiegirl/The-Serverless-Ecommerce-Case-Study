@@ -20,3 +20,13 @@ If the user is not currently signed into the application, the user is then promp
 On the checkout page, the user is prompted to fill in his home address details where the item will be delivered. After the user has entered the delivery address, the user needs to select the payment method. The user can choose to pay with a credit/debit card or any other payment method available to the user.
 
 After the card details are entered, the card details are verified and proceed to payment. Once the payment is successful, the order is successfully placed and an order confirmation receipt is sent to the user. The order details are also sent to the shipping system to start processing the shipping of the goods.
+
+
+# The-Serverless-Ecommerce-User-Stories
+1. As a user, I want to shop the page so that I can choose an item I am interested in purchasing.
+2. As a user, I want to select an item to view detailed information about the item such as product name, price, description, images, reviews, ratings e.t.c so that I can decide if i want to purchase the product.
+3. As a user, I want to add an item to my cart so that I can continue shopping for more items.
+4. As a user, I want to view all items in my cart so that I can see the total items and cost of items in my cart.
+5. As a user, I want to view all items in my cart so that I can change the quantity of my order.
+6. As a user, I want to view all items in my cart so that I can delete some items from my cart.
+7. As a user, I want to proceed to checkout so that I can pay and confirm my order.
