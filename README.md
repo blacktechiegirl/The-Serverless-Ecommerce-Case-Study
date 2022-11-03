@@ -38,3 +38,8 @@ After the card details are entered, the card details are verified and proceed to
 10. As a user, I want to proceed to checkout so that I can view my order summary.
 11. As a user I want to proceed gateway so that I can pay for my order.
 
+# The-Serverless-Ecommerce-Architecture
+![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/SERVERLESS%20TWEET%20(2).png)
+
+# The-Serverless-Ecommerce-Database-Design
+![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/Screenshot%202022-11-03%20034216.png)
