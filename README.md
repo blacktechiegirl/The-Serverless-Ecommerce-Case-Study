@@ -32,4 +32,9 @@ After the card details are entered, the card details are verified and proceed to
 4. As a user, I want to view all items in my cart so that I can see the total items and cost of items in my cart.
 5. As a user, I want to view all items in my cart so that I can change the quantity of my order.
 6. As a user, I want to view all items in my cart so that I can delete some items from my cart.
-7. As a user, I want to proceed to checkout so that I can pay and confirm my order.
+7. As a user, I want to proceed to checkout so that I can enter my user address.
+8. As a user, I want to proceed to checkout so that I can choose my payment method
+9. As a user, I want to proceed to checkout so that I can view my shipment details.
+10. As a user, I want to proceed to checkout so that I can view my order summary.
+11. As a user I want to proceed gateway so that I can pay for my order.
+
