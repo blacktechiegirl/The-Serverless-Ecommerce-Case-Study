@@ -26,18 +26,19 @@ After the card details are entered, the card details are verified and proceed to
 
 
 # The-Serverless-Ecommerce-User-Stories
-1. As a user, I want to shop the page so that I can choose an item I am interested in purchasing.
-2. As a user, I want to select an item to view detailed information about the item such as product name, price, description, images, reviews, ratings e.t.c so that I can decide if i want to purchase the product.
-3. As a user, I want to add an item to my cart so that I can continue shopping for more items.
-4. As a user, I want to view all items in my cart so that I can see the total items and cost of items in my cart.
-5. As a user, I want to view all items in my cart so that I can change the quantity of my order.
-6. As a user, I want to view all items in my cart so that I can delete some items from my cart.
-7. As a user, I want to proceed to checkout so that I can enter my user address.
-8. As a user, I want to proceed to checkout so that I can choose my payment method
-9. As a user, I want to proceed to checkout so that I can view my shipment details.
-10. As a user, I want to proceed to checkout so that I can view my order summary.
-11. As a user I want to proceed gateway so that I can pay for my order.
-12. As a user I want to receive notifications on the status of my order.
+1. As a user, I want to be able to search the inventory for a specific item so that I can add the item to my cart
+2. As a user, I want to shop the page so that I can choose an item I am interested in purchasing.
+3. As a user, I want to select an item to view detailed information about the item such as product name, price, description, images, reviews, ratings e.t.c so that I can decide if i want to purchase the product.
+4. As a user, I want to add an item to my cart so that I can continue shopping for more items.
+5. As a user, I want to view all items in my cart so that I can see the total items and cost of items in my cart.
+6. As a user, I want to view all items in my cart so that I can change the quantity of my order.
+7. As a user, I want to view all items in my cart so that I can delete some items from my cart.
+8. As a user, I want to proceed to checkout so that I can enter my user address.
+9. As a user, I want to proceed to checkout so that I can choose my payment method
+10. As a user, I want to proceed to checkout so that I can view my shipment details.
+11. As a user, I want to proceed to checkout so that I can view my order summary.
+12. As a user I want to proceed to a payment gateway so that I can pay for my order.
+13. As a user I want to receive notifications on the status of my order.
 
 # The-Serverless-Ecommerce-Architecture
 ![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/SERVERLESS%20TWEET%20(2).png)
