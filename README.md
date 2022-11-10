@@ -41,7 +41,10 @@ After the card details are entered, the card details are verified and proceed to
 13. As a user I want to receive notifications on the status of my order.
 
 # The-Serverless-Ecommerce-Architecture
-![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/SERVERLESS%20TWEET%20(2).png)
+![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/serverless%20ecommerce%20architecture.png)
+
+# The-Serverless-Ecommerce-Step-Functions-Workflow
+![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/serverless%20ecommerce%20architecture.png)
 
 # The-Serverless-Ecommerce-Database-Design
 ![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/Screenshot%202022-11-03%20034216.png)
