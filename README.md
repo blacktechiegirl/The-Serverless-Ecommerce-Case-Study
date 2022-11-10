@@ -44,7 +44,7 @@ After the card details are entered, the card details are verified and proceed to
 ![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/serverless%20ecommerce%20architecture.png)
 
 # The-Serverless-Ecommerce-Step-Functions-Workflow
-![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/serverless%20ecommerce%20architecture.png)
+![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/stepfunctions_graph(1).png)
 
 # The-Serverless-Ecommerce-Database-Design
 ![alt text](https://github.com/blacktechiegirl/The-Serverless-Ecommerce-Case-Study/blob/main/Screenshot%202022-11-03%20034216.png)
